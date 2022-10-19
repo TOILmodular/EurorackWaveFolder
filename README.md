@@ -31,7 +31,7 @@ If you want to use the Gerber files for having PCB manufactured, please note the
 - There is another SMD dual op amp, NJM4580. Again, any dual op amp with the same pinout (TL072) is ok.
 - There is a number of SMD 0.1uF capacitors with the package size 1608.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
-- 
+
 ![WaveFolder](https://user-images.githubusercontent.com/97026614/190561438-12a8842e-a8e9-4303-a96c-b654d74ac4d2.jpeg)
 
 ![WaveFolderFront](https://user-images.githubusercontent.com/97026614/190561466-ca433b1f-5f22-45f2-ac1c-9ab26f27c830.jpeg)
