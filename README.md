@@ -25,7 +25,7 @@ If you want to know about my DIY building process, take a look at those two YouT
 I added the information about hole coordinates for the front panel in the folder PanelLayout, refering to the component layout in the Gerber files. The layout is the same for both versions.
 
 ## Calibration
-The calibration requires a simple oscilloscope. I just used a free app with simple features on my Mac. There are two trimmers for calibration, labelled SYM and VOL. In addition, there is a check point, labelled CALOUT on the PBC (and in the schematic, in case you want to build your own PCB).
+The calibration requires a simple oscilloscope. I just used a free app with simple features on my Mac. There are two trimmers for calibration, labelled SYM and VOL. In addition, there is a check point, labelled CALOUT on the left side of the PBC (and in the schematic, in case you want to build your own PCB).
 
 The procedure is the following:
 1. Set both trimmers to mid-range.
@@ -57,6 +57,6 @@ If you want to use the Gerber files for having PCB manufactured, please note the
 
 <img width="205" alt="PCB_CtrlBack" src="https://user-images.githubusercontent.com/97026614/190561633-660d2875-82bd-4e18-ad20-486ec7a3bfab.png">
 
-<img width="205" alt="PCB_MainBack" src="https://user-images.githubusercontent.com/97026614/190561550-5ba08f33-e39b-495f-a91e-5655c8babed7.png">
+<img width="163" alt="PCB_MainBack" src="https://user-images.githubusercontent.com/97026614/197124145-cf5de74c-3188-4f03-9dfc-e16f30d8ea7c.png">
 
 <img width="205" alt="PCB_MainFront" src="https://user-images.githubusercontent.com/97026614/190561572-bcfa7b1b-1e1c-4107-aaa4-68b813ed024f.png">
