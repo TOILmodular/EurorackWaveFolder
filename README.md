@@ -5,7 +5,7 @@ Two modulation parameters, shape and range, with a CV input for the range.
 
 You can check this [Youtube video](https://youtu.be/8ZWv8SXo3Ds) to see the module in action.
 
-## Module Built and PCBs
+## Module Build and PCBs
 If you want to build the module yourself, I uploaded the schematic, the BOM and the Gerber files for the PCB.
 
 I used several SMD components for op ams and bypass caps.
