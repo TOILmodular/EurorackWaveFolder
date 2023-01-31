@@ -24,7 +24,7 @@ If you want to know about my DIY building process, take a look at those two YouT
 - [Eurorack Module Synth - Building an Electric Druid Wavetable Oscillator Module](https://youtu.be/ECpdo4HfqLg)
 
 ## Panel Layout
-I added the information about hole coordinates for the front panel in the folder PanelLayout, refering to the component layout in the Gerber files. The layout is the same for both versions.
+I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files. The layout is the same for both versions.
 
 ## Calibration
 The calibration requires a simple oscilloscope. I just used a free app with simple features on my Mac. There are two trimmers for calibration, labelled SYM and VOL. In addition, there is a check point, labelled CALOUT on the left side of the PBC (and in the schematic, in case you want to build your own PCB).
