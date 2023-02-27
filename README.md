@@ -8,7 +8,7 @@ You can check this [Youtube video](https://youtu.be/8ZWv8SXo3Ds) to see the modu
 ## Module Build and PCBs
 If you want to build the module yourself, I uploaded the schematic, the BOM and the Gerber files for the PCB.
 
-I used several SMD components for op ams and bypass caps.
+I used several SMD components for op amps and bypass caps.
 
 There are two different versions for the control board, an "original" and a "Thonk" version.
 Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
